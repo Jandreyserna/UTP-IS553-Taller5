@@ -5,8 +5,10 @@
   <title>taller-5</title>
 </head>
 <body>
+  <?php
+  require_once 'Ejercicio#1.php';
 
-  <?php echo 'para prueba'+'segunda prueba' ?>
+  echo 'para prueba'.'segunda prueba' ?>
 
 </body>
 </html>
